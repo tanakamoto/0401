@@ -1,1 +1,15 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+.concept .tanaka {
+  padding: 20px;
+  width: 100px;
+  border: 2px dotted orange;
+}
+
+.concept .tanaka p {
+  font-weight: bold;
+  text-align: center;
+}
+
+.tpo {
+  background-color: cornflowerblue;
+}
+/*# sourceMappingURL=style.css.map */
