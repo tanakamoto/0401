@@ -1,15 +1,17 @@
-.concept .tanaka {
+.consept .tanaka {
   padding: 20px;
   width: 100px;
   border: 2px dotted orange;
+  background-color: aqua;
 }
 
-.concept .tanaka p {
+.consept .tanaka p {
   font-weight: bold;
   text-align: center;
+  color: antiquewhite;
 }
 
-.tpo {
+.top {
   background-color: cornflowerblue;
 }
 /*# sourceMappingURL=style.css.map */
